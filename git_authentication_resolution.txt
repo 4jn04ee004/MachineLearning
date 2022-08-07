@@ -1,0 +1,1 @@
+https://levelup.gitconnected.com/fix-password-authentication-github-3395e579ce74#:~:text=In%20July%202020%2C%20GitHub%20announced,authenticating%20with%20the%20REST%20API.
