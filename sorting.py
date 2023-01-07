@@ -24,3 +24,12 @@ print(data)
 
 data.sort_values(by=["grades", "marks"], ascending=[True, False], inplace=True)
 print(data)
+
+# resetting index
+data.reset_index()
+print(data)
+
+# To drop the new created index row
+
+data.reset_index(inplace=True, drop=True)
+print(data)
